@@ -1,5 +1,5 @@
-# a collection of problems I have solved
-problems are from:
-- usaco
-- codeforces
-- cses
+**A collection of problems I have solved**
+Problems are from:
+- USACO
+- CodeForces
+- CSES
